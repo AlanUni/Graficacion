@@ -1,7 +1,5 @@
 #include <UTFTGLUE.h>              //use GLUE class and constructor
 
-
-
 UTFTGLUE myGLCD(0,A2,A1,A3,A4,A0); //all dummy args
 
 
