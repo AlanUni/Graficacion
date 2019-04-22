@@ -33,7 +33,6 @@ void setup()
     
 }
 
-//formulas modo isotropico
 
 void loop()
 {
